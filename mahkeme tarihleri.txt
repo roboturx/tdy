@@ -55,6 +55,20 @@ Duruşma Tarihi	dosya no-avukat		davalı		miktar	son-işlem tarihi-mahkeme-durum
 			 atila balcıya noterden boşalttığına dair süresinde ihtar çekmediği sürece
 			 her yıl aynı şartlarla kira bedeli talep edilebilir ve öder.
 
+Duruşma		Davalı		Dosya		Tarih		Açıklama
+18-01-24 09:00	Heltaş		2023-206-2AH	09-11-23	Dilekçe verilecek
+15-02-24 09:41	Adem Kesici	2023-348-iH 	04-01-24	Tekrar hesap için bilirlişiye - 2023/13337
+27-02-24 11:05	Karmen 		2023-680-İH	20-12-23	15 gün içinde (10-01-24) Tüm evraklar verilecek 
+06-03-24 10:00	Atila Yaşar	2022-2607-SH	20-11-23	
+
+
+01-12-23	İrfan Bacak	2023-423-istnf			Beraat a itiraz
+30-12-23	Orman		2022-739-3AH			Ağır cezaya itirazAA
+
+
+
+
+
 
 
 
