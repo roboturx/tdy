@@ -41,6 +41,7 @@
 1.7-	2024-06-25	Borca itiraz etti - Ama süresinden 1 gün sonra
 1.8-	2024-06-25	İtiraz süresinde yapılmadığı için reddedildi.
 1.9-	2024-07-11	Takip kesinleşti - İcra mahkemisine itiraz için 7 gün süre verildi
-1.10-	2024-07-12	Haciz başlatıldı 
-
+1.10-	2024-07-12	Haciz başlatıldı
+1.11.			İcra mahkemesinde temerrütten tahliye davası açıldı		 
+1.12.	2024-09-19	İcra hukuk mahkemesi tahliye kararı verdi
 
